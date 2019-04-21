@@ -1,0 +1,25 @@
+body{
+    text-align:center;
+    background-color:#282c34;
+    color:white;
+    text-decoration:none;
+    font-family:Verdana;
+    margin-top:150px;
+}
+
+p#quote{
+    font-style:italic;
+    
+}
+
+p#foot{
+    font-style: italic;
+}
+
+div.row div.col-sm-12 div.text-center a{
+    margin:5px;
+}
+
+h1{
+    font-style:italic;
+}
